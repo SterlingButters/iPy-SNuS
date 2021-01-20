@@ -4,7 +4,7 @@ Intel-Accelerated Python Particle Transport Simulation of Nuclear Systems
 https://www.researchgate.net/project/OneApi-Python-based-tool-for-Particle-Transport-Simulation-of-Nuclear-Systems
 
 
-<b><h1>1- First kernel features<h1><b>
+1- First kernel features
   
 - Nonte Carlo simulation of neutron tracks inside light water.
 - The code is parallelized at an event level (performed by the concurrent.futures module).
@@ -12,12 +12,12 @@ https://www.researchgate.net/project/OneApi-Python-based-tool-for-Particle-Trans
 - Interpolate cross section by using cubic spline method via scipy.interpolate module.
 
 
-<b><h1>2- How to run<h1><b>
+2- How to run
 
 python3 iPy-SNuS.py
 
 
-<b><h1>3- Simple output<h1><b>
+3- Simple output
 
 === iPy-SNuS Monte Carlo neutronique code.
 
