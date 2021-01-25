@@ -6,7 +6,7 @@ https://www.researchgate.net/project/OneApi-Python-based-tool-for-Particle-Trans
 
 1- First kernel features
   
-- Nonte Carlo simulation of neutron tracks inside light water.
+- Monte Carlo simulation of neutron tracks inside light water.
 - The code is parallelized at an event level (performed by the concurrent.futures module).
 - Provide high verbosity level.
 - Interpolate cross section by using cubic spline method via scipy.interpolate module.
